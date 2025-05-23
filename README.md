@@ -36,11 +36,4 @@ Add a screenshot or link to a live demo (optional but recommended).
 - Database setup (if applicable)
 - API keys for map services
 
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/my-village-map.git
-cd my-village-map
 
